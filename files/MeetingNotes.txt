@@ -1,0 +1,10 @@
+Date: 2025-01-16
+Participants: Alice, Bob, Charlie
+Agenda:
+1. Project updates
+2. Budget allocation
+3. Upcoming deadlines
+
+Key Points:
+- Task A is 70% complete.
+- Task B deadline extended to next Friday.

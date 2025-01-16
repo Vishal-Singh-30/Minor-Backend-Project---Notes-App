@@ -1,0 +1,11 @@
+Project Title: AI-Powered E-commerce Recommendation Engine
+
+Milestones:
+1. Set up backend API - January
+2. Design frontend UI - February
+3. Integrate database - March
+4. Testing and deployment - April
+
+Notes:
+- Use MongoDB for database.
+- Frontend framework: React.
